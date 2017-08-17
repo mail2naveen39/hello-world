@@ -1,4 +1,9 @@
 # hello-world
 sample program
 HI SAMPLE PROGRAM
-this is edited in non master branch..
+
+
+THIS is edited for the first time..
+
+THIS is edited in non master branch..
+
